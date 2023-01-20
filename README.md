@@ -49,7 +49,7 @@ ____Welcome____
 #### RUN SCRIPT
 ```python
  cd KHAN
- python KHAN.py
+ python khan.py
 ```
 
 
