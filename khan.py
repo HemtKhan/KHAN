@@ -1,1 +1,1 @@
-import KHAN
+import khan
